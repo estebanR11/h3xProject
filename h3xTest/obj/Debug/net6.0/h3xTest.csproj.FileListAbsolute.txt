@@ -1,0 +1,15 @@
+D:\VisualStudioProjects\h3xProject\h3xTest\bin\Debug\net6.0\h3xTest.exe
+D:\VisualStudioProjects\h3xProject\h3xTest\bin\Debug\net6.0\h3xTest.deps.json
+D:\VisualStudioProjects\h3xProject\h3xTest\bin\Debug\net6.0\h3xTest.runtimeconfig.json
+D:\VisualStudioProjects\h3xProject\h3xTest\bin\Debug\net6.0\h3xTest.dll
+D:\VisualStudioProjects\h3xProject\h3xTest\bin\Debug\net6.0\h3xTest.pdb
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.AssemblyInfo.cs
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.dll
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\refint\h3xTest.dll
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.pdb
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\h3xTest.genruntimeconfig.cache
+D:\VisualStudioProjects\h3xProject\h3xTest\obj\Debug\net6.0\ref\h3xTest.dll
